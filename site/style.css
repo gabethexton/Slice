@@ -1,0 +1,91 @@
+body {
+  background-image: url(./images/paisley.jpg);
+  background-color: black;
+  background-size: 400px;
+}
+
+h1, h2, h3, h4, #prologue {
+  text-align: center;
+}
+
+.quote {
+  font-style: italic;
+}
+
+.authorAttribute {
+  text-align: center;
+}
+
+.authorAttribute a {
+  color: #411008;
+  text-decoration: none;
+}
+
+.intro {
+  text-align: center;
+}
+
+#welcome {
+  margin-top: -10px;
+}
+
+#siteContainer {
+  margin-top: 50px;
+  /*padding-bottom: 50px;*/
+  background-color: #411008;
+  width: 90%;
+  height: 90%;
+  border: 5px double #A66644;
+  border-radius: 40px;
+  box-shadow: 5px 5px 5px black;
+  /*padding: 1%;*/
+}
+
+#slice {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: 50px;
+  font-weight: lighter;
+  color: #F3D291;
+  text-shadow: 5px 5px 5px black;
+}
+
+#mainParagraph {
+  background-color: #73281D;
+  margin: 0 auto;
+  padding: 0;
+  border: 5px double #A66644;
+  border-radius: 40px;
+  border-bottom: none;
+  margin-top: 10px;
+}
+
+#mainParagraphText {
+  vertical-align: baseline;
+  background-color: #D79640;
+  margin-top: 50px;
+  height: 700px;
+  border: 5px double #A66644;
+  border-radius: 40px;
+  border-bottom: none;
+  padding: 20px;
+  overflow-y: scroll;
+  font-size: 20px;
+}
+
+#mainParagraphText .content {
+  text-indent: 20px;
+}
+
+#bottomContainer {
+  background-color: #A66644;
+  height: 150px;
+  border-bottom: 5px double #A66644;
+  border-left: 5px double #A66644;
+  border-right: 5px double #A66644;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  box-shadow: 5px 5px 5px black;
+  /*margin-bottom: 15px;*/
+}

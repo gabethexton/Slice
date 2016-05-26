@@ -89,3 +89,10 @@ h1, h2, h3, h4, #prologue {
   box-shadow: 5px 5px 5px black;
   /*margin-bottom: 15px;*/
 }
+
+.ccLicense {
+  align-content: center;
+  text-align: center;
+  margin-left: 50px;
+  color: #A66644;
+}

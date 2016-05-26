@@ -38,7 +38,6 @@ h1, h2, h3, h4, #prologue {
   border: 5px double #A66644;
   border-radius: 40px;
   box-shadow: 5px 5px 5px black;
-  /*padding: 1%;*/
 }
 
 #slice {
@@ -95,4 +94,67 @@ h1, h2, h3, h4, #prologue {
   text-align: center;
   margin-left: 50px;
   color: #A66644;
+}
+
+.btn {
+  background-color: #411008;
+  background-image: none;
+  color: #D79640;
+  width: auto;
+  height: auto;
+  border: 5px double #A66644;
+  border-radius: 40px;
+  box-shadow: 5px 5px 5px black;
+  margin: 10px;
+}
+
+.btn-primary:focus, .btn-primary:hover, .btn-primary:active, .btn-primary:active:hover, .btn-primary:active:focus {
+    color: #000;
+    border-color: #411008;
+    background-color: #A66644;
+    background-position: 0 -15px;
+  }
+
+.thanks {
+  margin: 0 auto;
+  vertical-align: top;
+  display: inline-block;
+  font-size: 15px;
+  width: 30%;
+}
+
+.links #links {
+  color: black;
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  text-decoration: none;
+}
+
+.left {
+  text-align: left;
+}
+
+a {
+  color: dimgray;
+}
+
+ul#links.thanks {
+  margin: 0 auto;
+  width: 30%;
+}
+
+audio{
+  float: right;
+  margin-right: 20px;
+  vertical-align: top;
+}
+
+iframe {
+  margin: 0 auto;
+}
+
+#audio {
+  float: right;
+  margin-right: 10px;
 }

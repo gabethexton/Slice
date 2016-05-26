@@ -38,17 +38,17 @@
               </p>
               <hr>
               <div class="col-xs-2" id="leftFormBuffer"></div>
-              <form class="inputs" action="/site/main.html" method="get">
-                <label for="pronouns">How do you prefer others refer to you?</label>
+              <form class="inputs" action="/slice/main.html" method="get">
+                <label>How do you prefer others refer to you?</label>
                   <br>
-                <input type="radio" name="pronouns" value="m" required>
-                <label for="pronouns">He, Him, His</label>
+                <input type="radio" name="pronouns" id="m" value="m" required>
+                <label for="m">He, Him, His</label>
                   <br>
-                <input type="radio" name="pronouns" value="f" required>
-                <label for="pronouns">She, Her, Hers</label>
+                <input type="radio" name="pronouns" id="f" value="f" required>
+                <label for="f">She, Her, Hers</label>
                   <br>
-                <input type="radio" name="pronouns" value="o" required>
-                <label for="pronouns">They, Them, Theirs</label>
+                <input type="radio" name="pronouns" id="o" value="o" required>
+                <label for="o">They, Them, Theirs</label>
                   <hr>
                 <label for="city">Which of these cities would you prefer to live in?</label>
                 <select name="city">
@@ -62,9 +62,9 @@
                 <label for="restaurant">What's a restaurant you'd frequent there?</label>
                 <input type="text" name="restaurant" placeholder="ex: Illegal Pete's" required>
                   <hr>
-                <button type="reset" class="btn btn-default btn-lg" id="clearInput">Clear Input.</button>
-                <button type="submit" class="btn btn-default btn-lg" id="submit">Submit</button>
-                <button type="button" class="btn btn-default btn-lg" id="declineStart" disabled>Decline Input.</button>
+                <button type="reset" class="btn btn-primary" id="clearInput">Clear Input.</button>
+                <button type="submit" class="btn btn-primary" id="submit">Submit</button>
+                <!-- <button type="button" class="btn btn-primary" id="declineStart" disabled>Decline Input.</button> -->
               </form>
               <div class="col-xs-2" id="rightFormBuffer"></div>
             </div>

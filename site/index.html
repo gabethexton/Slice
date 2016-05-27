@@ -1,5 +1,7 @@
 <!DOCTYPE html>
+<meta charset="UTF-8"/>
 <html>
+
     <head>
       <title>Welcome to Slice</title>
         <!-- Normalize.css -->
@@ -15,6 +17,7 @@
         <!-- CUSTOM CSS -->
         <link rel="stylesheet" href="style.css">
     </head>
+
     <body>
       <div class="container-fluid" id="siteContainer">
         <div class="container-fluid" id="topContainer">
@@ -50,8 +53,8 @@
                 <input type="radio" name="pronouns" id="o" value="o" required>
                 <label for="o">They, Them, Theirs</label>
                   <hr>
-                <label for="city">Which of these cities would you prefer to live in?</label>
-                <select name="city">
+                <label for="cities">Which of these cities would you prefer to live in?</label>
+                <select name="city" id="cities">
                   <option value="Portland">Portland, Oregon</option>
                   <option value="Paris">Paris, France</option>
                   <option value="Buenos Aires">Buenos Aires, Argentina</option>
@@ -60,7 +63,7 @@
                 </select>
                   <hr>
                 <label for="restaurant">What's a restaurant you'd frequent there?</label>
-                <input type="text" name="restaurant" placeholder="ex: Illegal Pete's" required>
+                <input type="text" name="restaurant" id="restaurant" placeholder="ex: Illegal Pete's" required>
                   <hr>
                 <button type="reset" class="btn btn-primary" id="clearInput">Clear Input.</button>
                 <button type="submit" class="btn btn-primary" id="submit">Submit</button>
@@ -73,6 +76,7 @@
         </div>
         <a class="ccLicense" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br><a class="ccLicense" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
       </div>
+      <script src="./scripts/index.js"></script>
     </body>
-    <script src="./scripts/index.js"></script>
+
 </html>

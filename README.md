@@ -1,4 +1,5 @@
-#Galvanize Q1 Personal Project
+#Slice
+######A Galvanize Q1 Personal Project
 ##Project Description
 Slice is an interactive story where the reader journeys through the multiverse in second person.
 It begins with a brief intro and the user inputting some information that is used to modify the story.

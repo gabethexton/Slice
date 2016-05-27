@@ -8,6 +8,10 @@ Once the user submits the form, the story begins with immersive audio and the us
 
 <img src="http://gabethexton.com/slice/images/Slice.png" width="500">
 -----
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Fg6LmVInNow
+" target="_blank"><img src="http://img.youtube.com/vi/Fg6LmVInNow/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+-----
 ####Slice was developed as a personal project for my web development bootcamp.
 ####It uses the following...
 

@@ -11,33 +11,29 @@ Once the user submits the form, the story begins with immersive audio and the us
 ###It uses the following...
 
 ####Technologies:
--HTML5
--CSS3
--BOOTSTRAP
--JavaScript
--AJAX
--Local Storage
+- HTML5
+- CSS3
+- BOOTSTRAP
+- JavaScript
+- AJAX
+- Local Storage
 
 ####Tools:
--Atom
--Pivotal Tracker
--Adobe Comp CC
--The OpenWeatherMap API
--Google's Blogger WYSIWYG editor
--SoundCloud
+- Atom
+- Pivotal Tracker
+- Adobe Comp CC
+- The OpenWeatherMap API
+- Google's Blogger WYSIWYG editor
+- SoundCloud
 
 ####And would have failed without:
--The advice of my instructors
--The help of my peers
--A bunch of killer music
--Too much food
--You can find or follow me on:
+- The advice of my instructors
+- The help of my peers
+- A bunch of killer music
+- Too much food
 
-#### Find or Follow me at:
--[LinkedIn](https://linkedin.com/gabethexton)
-
--[GitHub](https://github.com/gabethexton)
-
--[Twitter (occasionally)](https://twitter.com/gabethexton)
-
--[gabethexton.com](http://gabethexton.com)
+####Find or Follow me at:
+- [LinkedIn](https://linkedin.com/gabethexton)
+- [GitHub](https://github.com/gabethexton)
+- [Twitter (occasionally)](https://twitter.com/gabethexton)
+- [gabethexton.com](http://gabethexton.com)

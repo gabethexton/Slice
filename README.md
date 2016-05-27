@@ -7,7 +7,7 @@ It begins with a brief intro and the user inputting some information that is use
 The user inputs their preferred gender pronouns, chooses from a short list of cities to live in, and names a restaurant they'd frequent there.
 Once the user submits the form, the story begins with immersive audio and the user chooses their own outcomes.
 -----
-![Slice](http://gabethexton.com/slice/images/Slice.png "Slice Screenshot")
+![Slice](http://gabethexton.com/slice/images/Slice.png "Slice Screenshot" =500)
 -----
 ###Slice was developed as a personal project for my web development bootcamp.
 ###It uses the following...
@@ -36,7 +36,7 @@ Once the user submits the form, the story begins with immersive audio and the us
 -You can find or follow me on:
 
 #### Find or Follow me at:
--[LinkedIn]:https://linkedin.com/gabethexton
--[GitHub]:https://github.com/gabethexton
--[Twitter (occasionally)]:https://twitter.com/gabethexton
--[gabethexton.com]:http://gabethexton.com
+-[LinkedIn](https://linkedin.com/gabethexton)
+-[GitHub](https://github.com/gabethexton)
+-[Twitter (occasionally)](https://twitter.com/gabethexton)
+-[gabethexton.com](http://gabethexton.com)

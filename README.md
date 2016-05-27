@@ -8,8 +8,8 @@ Once the user submits the form, the story begins with immersive audio and the us
 
 <img src="http://gabethexton.com/slice/images/Slice.png" width="500">
 -----
-###Slice was developed as a personal project for my web development bootcamp.
-###It uses the following...
+####Slice was developed as a personal project for my web development bootcamp.
+####It uses the following...
 
 ####Technologies:
 - HTML5
